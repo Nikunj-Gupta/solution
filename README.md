@@ -13,6 +13,6 @@ Final solution is below. It is written in C++. Compile along with use of -std=c+
 
 ### Usage
 
-	* Compile using ``` g++ soln.cpp -std=c++11 ```
-	* Run using ```./a.out```.
-	* Or, use ```make``` to run the makefile.
+Compile using ```g++ soln.cpp -std=c++11```
+Run using ```./a.out```.
+Or, use ```make``` to run the makefile.
